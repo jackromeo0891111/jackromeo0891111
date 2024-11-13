@@ -70,6 +70,6 @@ I enjoy writing about my experiences and sharing insights into cybersecurity and
 ## 📫 Let's Connect!
 Feel free to reach out if you'd like to collaborate on projects, discuss cybersecurity, or just say hi!  
 - **Email**: [jack.email@example.com](mailto:jack.email@example.com)
-- **LinkedIn**: [linkedin.com/in/jackyeh](https://linkedin.com/in/jackyeh)
+- **LinkedIn**: [linkedin.com/in/jackyeh](https://www.linkedin.com/in/hao-yu-yeh-2a4ba1279/)
 
 Thanks for visiting my GitHub profile! 😊
